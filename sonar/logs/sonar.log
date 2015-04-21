@@ -1,0 +1,15 @@
+--> Wrapper Started as Console
+Launching a JVM...
+Wrapper (Version 3.2.3) http://wrapper.tanukisoftware.org
+  Copyright 1999-2006 Tanuki Software, Inc.  All Rights Reserved.
+
+WrapperSimpleApp: Unable to locate the class org.sonar.application.App: java.lang.UnsupportedClassVersionError: org/sonar/application/App : Unsupported major.minor version 51.0
+
+WrapperSimpleApp Usage:
+  java org.tanukisoftware.wrapper.WrapperSimpleApp {app_class} [app_arguments]
+
+Where:
+  app_class:      The fully qualified class name of the application to run.
+  app_arguments:  The arguments that would normally be passed to the
+                  application.
+<-- Wrapper Stopped
